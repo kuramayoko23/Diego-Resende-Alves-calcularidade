@@ -1,5 +1,5 @@
-- Diego-Resende-Alves-calcularidade
-- programa que descobre aidade de calquer pessoa
+//Diego-Resende-Alves-calcularidade//
+//programa que descobre aidade de calquer pessoa//
 
 #include<stdio.h>
 
@@ -58,9 +58,10 @@ system("cls");
 }
 
 system("pause");
+
 return 0;
 }
 
 
 
-AUTOR: DIEGO RESENDE ALVES/SISTEMA DE INFORMAÇÃO/UNIS/MG
+//AUTOR: DIEGO RESENDE ALVES/SISTEMA DE INFORMAÇÃO/UNIS/MG//
